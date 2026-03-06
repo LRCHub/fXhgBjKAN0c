@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "wholeheartedly",
+  "base_artist": "Yvng xan",
+  "createdAt": "2026-03-06T13:32:16.875971Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "想いきり [Wholeheartedly]",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/01_想いきり_[Wholeheartedly]_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Theekh Hu Mei - From \"Wholeheartedly\"",
+      "artist": "Emiway Bantai feat. Hellac",
+      "has_synced": false,
+      "path": "select/02_Theekh_Hu_Mei_-_From__Wholeheartedly_Emiway_Bantai_feat._Hellac.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fake Ones (From \"Wholeheartedly\")",
+      "artist": "Emiway Bantai",
+      "has_synced": false,
+      "path": "select/03_Fake_Ones_(From__Wholeheartedly_)_Emiway_Bantai.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fake Ones (From \"Wholeheartedly\")",
+      "artist": "Emiway Bantai, Shez, Flowbo",
+      "has_synced": true,
+      "path": "select/04_Fake_Ones_(From__Wholeheartedly_)_Emiway_Bantai,_Shez,_Flowbo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Theekh Hu Mei (From \"Wholeheartedly\")",
+      "artist": "Emiway Bantai, Hellac",
+      "has_synced": false,
+      "path": "select/05_Theekh_Hu_Mei_(From__Wholeheartedly_)_Emiway_Bantai,_Hellac.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Theekh Hu Mei (From \"Wholeheartedly\")",
+      "artist": "Emiway Bantai",
+      "has_synced": false,
+      "path": "select/06_Theekh_Hu_Mei_(From__Wholeheartedly_)_Emiway_Bantai.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "4U REMIX (From \"Wholeheartedly\")",
+      "artist": "Emiway Bantai, Maanu",
+      "has_synced": false,
+      "path": "select/07_4U_REMIX_(From__Wholeheartedly_)_Emiway_Bantai,_Maanu.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Aksar (From \"Wholeheartedly\")",
+      "artist": "Emiway Bantai, The Rish",
+      "has_synced": false,
+      "path": "select/08_Aksar_(From__Wholeheartedly_)_Emiway_Bantai,_The_Rish.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Theekh Hu Mei - From \"Wholeheartedly\"",
+      "artist": "Emiway Bantai",
+      "has_synced": false,
+      "path": "select/09_Theekh_Hu_Mei_-_From__Wholeheartedly_Emiway_Bantai.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "4U REMIX - From \"Wholeheartedly\"",
+      "artist": "Emiway Bantai",
+      "has_synced": false,
+      "path": "select/10_4U_REMIX_-_From__Wholeheartedly_Emiway_Bantai.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Aksar - From \"Wholeheartedly\"",
+      "artist": "Emiway Bantai",
+      "has_synced": false,
+      "path": "select/11_Aksar_-_From__Wholeheartedly_Emiway_Bantai.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "4U REMIX (From \"Wholeheartedly\")",
+      "artist": "Emiway Bantai & Maanu",
+      "has_synced": false,
+      "path": "select/12_4U_REMIX_(From__Wholeheartedly_)_Emiway_Bantai_&_Maanu.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wholeheartedly",
+      "artist": "Andreas Moe",
+      "has_synced": true,
+      "path": "select/13_Wholeheartedly_Andreas_Moe.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "4U REMIX (From \"Wholeheartedly\")",
+      "artist": "Emiway Bantai • Maanu",
+      "has_synced": true,
+      "path": "select/14_4U_REMIX_(From__Wholeheartedly_)_Emiway_Bantai_•_Maanu.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Aksar (From \"Wholeheartedly\")",
+      "artist": "Emiway Bantai • The Rish",
+      "has_synced": false,
+      "path": "select/15_Aksar_(From__Wholeheartedly_)_Emiway_Bantai_•_The_Rish.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Aksar (From \"Wholeheartedly\")",
+      "artist": "Emiway Bantai & The Rish",
+      "has_synced": false,
+      "path": "select/16_Aksar_(From__Wholeheartedly_)_Emiway_Bantai_&_The_Rish.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "4U REMIX (From \"Wholeheartedly\")",
+      "artist": "Emiway Bantai",
+      "has_synced": false,
+      "path": "select/17_4U_REMIX_(From__Wholeheartedly_)_Emiway_Bantai.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Wholeheartedly (with Ty Dolla $ign & 6LACK)",
+      "artist": "JID",
+      "has_synced": true,
+      "path": "select/18_Wholeheartedly_(with_Ty_Dolla_$ign_&_6LACK)_JID.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Wholeheartedly",
+      "artist": "JID",
+      "has_synced": false,
+      "path": "select/19_Wholeheartedly_JID.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "wholeheartedly",
+      "artist": "Yvng xan",
+      "has_synced": false,
+      "path": "select/pl_01_wholeheartedly_Yvng_xan.txt"
+    }
+  ]
+}
